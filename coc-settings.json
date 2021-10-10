@@ -1,0 +1,21 @@
+{
+  "prisma": {},
+  "coc.preferences.formatOnSaveFiletypes": [
+    "prisma",
+    "toml",
+    "scss",
+    "css",
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "json",
+    "mdx",
+    "markdown.mdx",
+    "markdown",
+    "Markdown",
+    "graphql",
+    "rust",
+    "yaml"
+  ]
+}
